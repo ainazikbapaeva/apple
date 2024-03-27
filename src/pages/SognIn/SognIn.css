@@ -1,0 +1,33 @@
+#sognIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.sognIn {
+  background-color: white;
+  width: 600px;
+  height: 600px;
+  border-radius: 10px;
+}
+
+.textField {
+  width: 64ch;
+  color: grey;
+  border-radius: 40px;
+}
+
+#sognUp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 94vh;
+}
+
+.sognUp {
+  background-color: white;
+  width: 620px;
+  height: 820px;
+  border-radius: 10px;
+}

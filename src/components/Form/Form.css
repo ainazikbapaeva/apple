@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.card {
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  padding: 70px;
+  width: 500px;
+  gap: 20px;
+}
